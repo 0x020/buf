@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "buf.h"
 
 void buffer(char* i) {
   char buf[8];
